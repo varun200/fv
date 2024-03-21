@@ -8,7 +8,7 @@ st.set_page_config(
     initial_sidebar_state="auto",
     page_icon='📈'
 )
-
+# asdasd
 def add_logo():
     st.markdown(
         """
